@@ -1,6 +1,6 @@
 # Card viewer
 
-An application built with React, Three.js, and Vite. This app allows you to create your own unique card design with the ability to change colors or add your own image.
+An application built with React, Three.js and Vite. This app allows you to create your own unique card design with the ability to change colors or add your own image.
 
 ## Base design
 
