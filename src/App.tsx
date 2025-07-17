@@ -183,6 +183,7 @@ function App() {
         UPLOAD IMAGE
         <input
           hidden
+          name="texture"
           ref={fileRef}
           type="file"
           accept="image/*"
