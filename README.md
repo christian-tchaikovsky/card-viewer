@@ -18,4 +18,4 @@ An application built with React, Three.js, and Vite. This app allows you to crea
 
 ## Demo
 
-[![Watch the video](/video-preview.jpg)](/demo-video.mov)
+[![Watch the video](/video-preview.jpg)](https://drive.google.com/file/d/13RKnx45fixw5XJK243BWF2Zo1liGr3et/view?usp=sharing)
